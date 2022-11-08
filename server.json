@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Sundarbans",
+        "service_id": "1",
+        "img": "https://www.sunderbans-national-park.com/img/tour_img.jpg",
+        "description": "Thousands of meandering streams, creeks, rivers and estuaries have enhanced its charm. Sundarbans meaning beautiful forest is the natural habital of the world famous Royal Bengal Tiger, spotted deer, crocodiles, jungle fowl, wild boar, lizards, theses monkey and an innumerable variety of beautiful birds",
+        "price": "200"
+        
+    },
+    {
+        "title": "Saint Martin",
+        "service_id": "2",
+        "img": "https://cosmosgroup.sgp1.cdn.digitaloceanspaces.com/news/3985435_Saunt%20Martin.jpeg",
+        "description": "St. Martin is one of the most beautiful visiting places of Bangladesh. It has fresh blue water with corals, beautiful sandy beaches, a lot of coconut trees, and huge natural beauties. Sunrise and sunset are two most striking things you can enjoy",
+        "price": "190"
+        
+    },
+    {
+        "title": "Sylhet Tea Garden",
+        "service_id": "3",
+        "img": "https://preview.redd.it/3b5kwvqsrvn51.jpg?auto=webp&s=1411ea3f6cbacaa674265595f486800d54f702b9",
+        "description": "If you want to enjoy the mind-blowing view of tea gardens across the horizon, visit the Sylhet division. Because, out of the total 167 tea gardens in Bangladesh, 135 are located in greater Sylhet. and more location stay in sylhet like jaflong, sylhelt Mazer and nice places",
+        "price": "130"
+        
+    },
+    {
+        "title": "Cox's Bazar",
+        "service_id": "4",
+        "img": "https://cdn.bangladeshscenictours.com/wp-content/uploads/2019/11/Exploring-Coxs-Bazar.jpg",
+        "description": "With a long unbroken beach and a small port, Cox's Bazar is a popular tourist resort, connected by road, rail, and air with Chittagong. Major industries in addition to tourism include fish processing, salt production, ice making, printing, and the milling of rice, flour, and wood.",
+        "price": "180"
+        
+    },
+    {
+        "title": "Tetulia tourist spot",
+        "service_id": "5",
+        "img": "https://i.pinimg.com/736x/0e/5b/d4/0e5bd432cc3c38bd698143f4fa109e1c.jpg",
+        "description": "Perhaps you have been yearning to see the famed Kanchenjunga for long. But because of the international travel involved, and the various red tapes, it has not materialised yet.  Did you know that you can easily see the sunbeams dancing off of the massive mountain's snow sheath from a peaceful corner of your own country",
+        "price": "110"
+        
+    },
+    {
+        "title": "Mahasthangarh Historical place",
+        "service_id": "6",
+        "img": "https://www.travelmate.com.bd/wp-content/uploads/2021/05/Pundranagar.jpg",
+        "description": "Mahasthangarh is the oldest archaeological site in Bangladesh. It dates back to 300 BCE and was the ancient capital of the Pundra Kingdom.Mahasthan means great sanctity and garh means fort. Mahasthangarh is the remains of the ancient city of Pundranagar.",
+        "price": "150"
+        
+    }
+]
