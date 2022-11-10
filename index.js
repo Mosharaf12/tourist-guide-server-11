@@ -40,6 +40,14 @@ async function run(){
             const service = await servicesCollection.findOne(query)
             res.send(service);
         })
+        //  add new services 
+        app.post('/service', async(req,res)=>{
+            const query = req.body;
+            const result = await servicesCollection.insertOne(query)
+            res.send(result);
+            console.log(result);
+
+        })
 
         // add the reviews collection 
 
